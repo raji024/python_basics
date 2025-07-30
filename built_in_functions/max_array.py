@@ -5,4 +5,6 @@ print(sum(arr))
 a ="raji";
 print(type(a))
 print(len(a))
+a =6.1476
+print(round(a,2))
 
