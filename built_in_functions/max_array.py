@@ -7,4 +7,5 @@ print(type(a))
 print(len(a))
 a =6.1476
 print(round(a,2))
-
+arr2=[9,1,4]
+print(sorted(arr2))
