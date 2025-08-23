@@ -8,3 +8,4 @@ for num in arr:
         d[num]=1
 for key,value in d.items():
     print(key,":",value)
+
