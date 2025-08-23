@@ -7,3 +7,4 @@ for i in range(0,len(b)-1):
         if(b[i] + b[j] == k):
             arr.append((b[i],b[j]))
 print(arr)
+
