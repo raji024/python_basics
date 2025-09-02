@@ -2,5 +2,6 @@ def add ():
     a = int(input())
     b = int(input())
     print(a+b)
-print("ok")
+
 add()
+print("ok")
