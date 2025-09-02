@@ -9,3 +9,4 @@ for num in arr:
 for key,value in d.items():
     print(key,":",value)
 
+
