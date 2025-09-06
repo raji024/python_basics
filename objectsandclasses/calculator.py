@@ -7,7 +7,7 @@ class calculator:
         print(self.num1+self.num2)
 
 obj1 = calculator(10,2)
-#obj1.add()
+obj1.add()
 
 # without constructor
 class calci:
