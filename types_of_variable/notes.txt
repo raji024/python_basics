@@ -1,0 +1,2 @@
+3 types of variable
+1) inside the constructore i sinstance variable
